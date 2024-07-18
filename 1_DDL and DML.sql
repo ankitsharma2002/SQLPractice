@@ -1,5 +1,4 @@
--- 		  ============== 1. Data Definition Language (DDL) ========================================, 
--- CREATE, ALTER, DROP, TRUNCATE, RENAME
+-- 		  ============== 1. Data Definition Language (DDL), CREATE, ALTER, DROP, TRUNCATE, RENAME ========================================, 
 -- Create : Used to create database objects like tables, indexes, and databases.
 -- Create database RealEstate_db;
 -- use RealEstate_db;
@@ -13,8 +12,6 @@
 -- );
 
 -- There is 5 type of combination available for ALTER Used to modify existing database objects.
-
-
 -- ALTER TABLE Customers
 -- ADD inquery varchar(255);
 
@@ -47,7 +44,9 @@
 
 -- Second delete command
 --  use classicmodels;
+
 -- This command is use to update save updates, SET SQL_SAFE_UPDATES = 0;
+
 -- DELETE FROM customer_fac
 -- WHERE mi_customer_name = 'West Coast Collectables Co.';
 
@@ -96,9 +95,3 @@
 -- ('12362', 'MA Customer Name 18', 'MI Customer Name 18', 67000),
 -- ('12363', 'MA Customer Name 19', 'MI Customer Name 19', 68000),
 -- ('12364', 'MA Customer Name 20', 'MI Customer Name 20', 69000);
---      ===============  3. Data Control Language (DCL) ========================================, 
--- grant , revoke
---      ===============  4. Transaction Control Language (TCL), commit, rollback, savepoint, set transaction ==================================,
- 
--- 		===============  5. Data Query Language (DQL)===========================================, 
--- analysis
