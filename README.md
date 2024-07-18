@@ -1,7 +1,7 @@
 # SQLPractice
-Depository is dedicated to SQL, MySQL,Database design, Database testing and ETL Testing.
+The repository is dedicated to SQL, MySQL, Database design, Database testing and other practice of sql.
 
-In master branch, Revision file contains all 5 types of commands in SQL(DDL, DML, DCL, TCL, DQL)
+In the master branch, the Revision file contains all 5 types of commands in SQL(DDL, DML, DCL, TCL, DQL)
 1_DDL, DML
 2_DCL and TCL
 -- By using classicmodels sample data base in Mysql Database.
